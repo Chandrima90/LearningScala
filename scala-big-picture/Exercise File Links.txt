@@ -1,0 +1,5 @@
+Exercise files for this course can be found at this link:
+https://github.com/hhimanshu/scala-the-big-picture
+
+In addition to this code repository, step-by-step instructions are available in a GitBook:
+https://harithimanshu.gitbook.io/scala-the-big-picture/
